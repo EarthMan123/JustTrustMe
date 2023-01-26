@@ -35,5 +35,5 @@ To install directly to the phone connected via ADB:
 ./gradlew installRelease
 ```
 
-
+Build 26/01/2023
 
